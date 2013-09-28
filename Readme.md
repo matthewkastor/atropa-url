@@ -7,20 +7,12 @@ JavaScript utilities for handling urls.
 The current published version:
 
 ```
-npm install atropa-url
-```
-
-The bleeding edge development version:
-
-```
 npm install git+https://github.com/matthewkastor/atropa-url.git#master
 ```
 
 For some packages I simply publish to the `gh-pages` branch since it's easier to
  generate web docs in the repo and push the whole thing. Check the repo
  if you try installing the `master` branch and don't get what you expect.
-
-This package lives at: [https://npmjs.org/package/atropa-url](https://npmjs.org/package/atropa-url)
 
 Source code available at: [https://github.com/matthewkastor/atropa-url/](https://github.com/matthewkastor/atropa-url/)
 
