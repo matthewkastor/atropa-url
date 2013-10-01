@@ -19,7 +19,8 @@
         "buildBrowserModule": "node dev/browserify.js",
         "buildDocs": "jsdoc-toolkit -v -d=./docs/jsdoc/ -r -s src/",
         "lint": "atropa-jslint ./src/atropa-url.js",
-        "srcFormat": "atropa-jsformatter ./src/atropa-url.js ./src/atropa-url.js"
+        "srcFormat": "atropa-jsformatter ./src/atropa-url.js ./src/atropa-url.js",
+        "pretest": "node dev/browserify.js"
     },
     "homepage": "https://github.com/matthewkastor/atropa-url/",
     "bugs": "https://github.com/matthewkastor/atropa-url/issues",
