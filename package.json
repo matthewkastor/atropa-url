@@ -1,6 +1,6 @@
 {
     "name": "atropa-url",
-    "version": "2013.09.30-2453",
+    "version": "2013.010.1-212",
     "description": "JavaScript utilities for handling urls.",
     "main": "./src/atropa-url.js",
     "directories": {
